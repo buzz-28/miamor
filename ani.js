@@ -98,5 +98,3 @@ $('.no').on("click", function(){
     $('#f21').css('display', 'none');
     $('#f22').css('display', 'flex');
     });
-});
-});
