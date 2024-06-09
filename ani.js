@@ -1,11 +1,3 @@
-jQuery.noConflict();
-jQuery(document).ready(function($) {
-    // Aquí tu código usando $
-    $(document).ready(function() {
-        // Tu código aquí
-  
-    
-
 $('.no').on("click", function(){ 
     $('#f1').css('display', 'none');
     $('#f2').css('display', 'flex');  
